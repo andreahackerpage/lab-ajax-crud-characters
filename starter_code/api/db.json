@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "debt": true,
+      "weapon": "Blaster Pistol",
+      "id": 1
+    },
+    {
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "debt": false,
+      "weapon": "Lightsaber",
+      "id": 2
+    },
+    {
+      "name": "Andrea",
+      "occupation": "ironhacker",
+      "weapon": "Mac",
+      "debt": false,
+      "id": 4
+    },
+    {
+      "name": "Andrea",
+      "occupation": "ironhacker",
+      "weapon": "Mac",
+      "debt": false,
+      "id": 5
+    },
+    {
+      "name": "Andrea",
+      "occupation": "ironhacker",
+      "weapon": "Mac",
+      "debt": false,
+      "id": 6
+    },
+    {
+      "name": "Andrea",
+      "occupation": "ironhacker",
+      "weapon": "Mac",
+      "debt": false,
+      "id": 7
+    },
+    {
+      "name": "Andrea",
+      "occupation": "ironhacker",
+      "weapon": "Mac",
+      "debt": false,
+      "id": 8
+    },
+    {
+      "name": "Andrea",
+      "occupation": "ironhacker",
+      "weapon": "Mac",
+      "debt": false,
+      "id": 9
+    },
+    {
+      "name": "Andrea",
+      "occupation": "ironhacker",
+      "weapon": "Mac",
+      "debt": false,
+      "id": 10
+    },
+    {
+      "name": "Andrea",
+      "occupation": "ironhacker",
+      "weapon": "Mac",
+      "debt": false,
+      "id": 11
+    }
+  ]
+}
